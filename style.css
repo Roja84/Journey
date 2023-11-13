@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+a:link {
+	text-decoration: none;
+}
+
+html {
+	background: #424242
+}
+
+header {
+	height: 30%;
+}
+
+
+h1 {
+	font-family: Dancing Script, cursive;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	animation: fadeIn 3s;
+	margin-top: 2%;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.box1 {
+	width:99%;
+	height: 33%;
+	position: absolute;
+	display: flex;
+	margin-top: 7%;
+}
+
+.jewelry {
+	width:75%;
+	animation: fadeIn 5s;
+}
+
+.jewelry h1 {
+	color: #CAA0CB;
+}
+
+.lapidary {
+	width: 75%;
+	animation: fadeIn 7s;
+}
+
+.lapidary h1 {
+	color: #E1E168;
+}
+
+.tfc {
+	width:100%;
+	height: 33%;
+	padding-top: 20%;
+	text-align: center;
+	animation: fadeIn 9s;
+}
+
+.tfc h1 {
+	color: #72C8A9;
+}
+
+.tfc h2 {
+	color: #95ECCC;
+}
