@@ -8,10 +8,17 @@ html {
 	background: #424242
 }
 
-header {
+/*header {
 	height: 30%;
-}
+}*/
 
+.top {
+	width: 30%;
+	text-align: center;
+	/*border: 5px black solid;*/
+	margin: auto;
+	margin-top: 2%;
+}
 
 h1 {
 	font-family: Dancing Script, cursive;
@@ -28,16 +35,19 @@ h1 {
 }
 
 .box1 {
-	width:99%;
+	width: 99%;
 	height: 33%;
 	position: absolute;
 	display: flex;
 	margin-top: 7%;
+	/*border: 3px black solid;*/
 }
 
 .jewelry {
-	width:75%;
+	width: 25%;
 	animation: fadeIn 5s;
+	/*border: 1px black solid;*/
+	margin-left: 12%;
 }
 
 .jewelry h1 {
@@ -45,8 +55,10 @@ h1 {
 }
 
 .lapidary {
-	width: 75%;
+	width: 30%;
 	animation: fadeIn 7s;
+	/*border: 1px black solid;*/
+	margin-left: 23%;
 }
 
 .lapidary h1 {
