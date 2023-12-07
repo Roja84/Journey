@@ -92,3 +92,8 @@ h1 {
 .tfc h2 {
 	color: #95ECCC;
 }
+
+footer{
+	text-align: center;
+	/*color: white;*/
+}
