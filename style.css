@@ -40,23 +40,23 @@ h1 {
 	position: absolute;
 	display: flex;
 	margin-top: 7%;
-	border: 3px black solid;
+	/*border: 3px black solid;*/
 }
 
 .box2 {
 	width: 50%;
-	border: 1px black solid;
+	/*border: 1px black solid;*/
 }
 
 .box3 {
 	width: 50%;
-	border: 1px black solid;
+	/*border: 1px black solid;*/
 }
 
 .jewelry {
 	width: 50%;
-	animation: fadeIn 5s;
-	border: 1px black solid;
+	animation: fadeIn 3s;
+	/*border: 1px black solid;*/
 	/*margin-left: 12%;*/
 	margin: auto;
 }
@@ -67,8 +67,8 @@ h1 {
 
 .lapidary {
 	width: 55%;
-	animation: fadeIn 7s;
-	border: 1px black solid;
+	animation: fadeIn 4s;
+	/*border: 1px black solid;*/
 	/*margin-left: 23%;*/
 	margin: auto;
 }
@@ -82,7 +82,7 @@ h1 {
 	height: 33%;
 	padding-top: 20%;
 	text-align: center;
-	animation: fadeIn 9s;
+	animation: fadeIn 5s;
 }
 
 .tfc h1 {
